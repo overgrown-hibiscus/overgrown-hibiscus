@@ -1,8 +1,8 @@
 [submodule ".config/awesome"]
 	path = .config/awesome
-	url = git@github.com:Aproxia-dev/overgrown-dots.git
-	branch = awesome
+	url = git@github.com:overgrown-hibiscus/overgrown-awesome.git
+	branch = main
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = git@github.com:Aproxia-dev/overgrown-dots.git
-	branch = nvim
+	url = git@github.com:overgrown-hibiscus/overgrown-neovim.git
+	branch = main
